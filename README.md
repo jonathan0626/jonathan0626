@@ -1,14 +1,27 @@
 # Hi there 👋 I'm Jonathan Peng
 
 ## 👨‍💻 About Me
-I am a multidisciplinary researcher and developer with a strong foundation in **Mechanical Engineering** and **Data Science**, currently exploring the intersection of **AI, healthcare, and technology innovation**.  
+I am from **Taiwan**, previously studied **Mechanical Engineering at National Yang Ming Chiao Tung University (NYCU)**,  
+and I am now pursuing a **Master’s Program in Robotics at NYCU**, focusing on **AI and computer vision**.  
 
-- 💼 Business Development Intern @ **Anya Biopharm**, focusing on oral peptide drug delivery platforms and licensing strategies.  
-- 🔬 Research experience in **NLP for Emergency Medicine**, **Biomechanics (motion analysis & rehabilitation)**, and **Robotics design**.  
 - 🌐 Creator of [jonathan-peng.com](https://www.jonathan-peng.com), a portfolio showcasing my projects across engineering, AI, and web development.  
 
-I am passionate about bridging **engineering, AI, and biomedical applications**, leveraging data-driven solutions to improve healthcare and technology systems.
+I am passionate about **interdisciplinary integration and hands-on innovation**, combining engineering with AI, data science, and performance arts.  
 
+My expertise spans across **web development, robotics, competitive table tennis, close-up magic, stage performance, jazz drumming, and mechanical innovation**.
+
+---
+
+## 🌟 Experience
+- 🎩 **Special Guest Magician** – Sanlih Television Variety Show *“Super Entourage”*  
+- 🏓 **Founder & First Convener** – *Qing Jiao Small League* (Inter-departmental table tennis league)  
+- 💻 **Developer** – Real-time Match Recording System for Qing Jiao League  
+- 🌐 **Designer** – Official Website of *Weiguo Street Christian Church, Tainan*  
+- 🏓 **Team Captain (113) & Coach (114–115)** – NYCU Mechanical Engineering Table Tennis Team  
+- 🎨 **Designer** – Logo Artwork for NYCU Red Fox Magic Club  
+- 🎭 **Vice President (18th Term)** – NYCU Red Fox Magic Club  
+- 🥁 **Jazz Drummer** – Tainan Second Senior High School Rock Band Club
+  
 ---
 
 ## 🚀 Skills
