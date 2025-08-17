@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Jonathan Peng
 
-<!--
-**jonathan0626/jonathan0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Background in Mechanical Engineering & Data Science
+- 💼 BD Intern @ Anya Biopharm
+- 🔬 Research: NLP for Emergency Medicine, Biomechanics
+- 🌐 Personal Website: [jonathan-peng.com](https://www.jonathan-peng.com)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: Python, C++, SQL
+- Web: HTML, CSS, JavaScript
+- Data: Machine Learning, NLP, Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔗 [Weiguo Church Website](https://www.weiguochurch.com)
+- 🔗 Real-time Table Tennis League Scoring System
+- 🔗 Biomechanics Research (Hip ROM Study)
+
+## 📫 Connect
+- GitHub: [@jonathanpeng](https://github.com/jonathanpeng)
+- LinkedIn: [Jonathan Peng](https://linkedin.com/in/xxx)
+- Email: your@email.com
