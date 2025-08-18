@@ -59,7 +59,7 @@ Proficient in **Lua scripting**, with hands-on experience in **FiveM**, game mod
 ---
 
 ## 📫 Connect  
-🌐 [Website](https://www.jonathan-peng.com) · 💻 [GitHub](https://github.com/jonathanpeng) · 📧 [Email](mailto:arroyoisalsogood@gmail.com)  
+🌐 [Website](https://www.jonathan-peng.com) · 💻 [GitHub](https://github.com/jonathan0626) · 📧 [Email](mailto:arroyoisalsogood@gmail.com)  
 
 ---
 ✨ *“Engineering + AI + Creativity = Infinite Innovation.”* ✨
