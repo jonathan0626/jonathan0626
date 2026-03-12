@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Jonathan Peng
+# Jonathan Peng 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=M.S.+Robotics+Student;Full-Stack+%26+Web+Developer;Systems+Programming;Creative+Coder)](https://git.io/typing-svg)
 
@@ -63,9 +63,6 @@ I am an M.S. Robotics student at **National Yang Ming Chiao Tung University (NYC
   <a href="https://github.com/jonathan0626/Autonomous-Mobile-Robot-with-Computer-Vision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=Autonomous-Mobile-Robot-with-Computer-Vision&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
-  <a href="https://github.com/jonathan0626/NYCU-Robotics-Course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=NYCU-Robotics-Course&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
 </p>
 
 * **Autonomous Robot:** Built a system integrating **Raspberry Pi & Arduino** with **MediaPipe** for gesture-based control.
@@ -93,12 +90,16 @@ I am an M.S. Robotics student at **National Yang Ming Chiao Tung University (NYC
 
 * **Hypothermia Risk Prediction System:** Developed the front-end architecture and integrated UI for real-time medical risk prediction.
 * **[Personal Portfolio](https://www.jonathan-peng.com):** A 3D-integrated showcase built with **Three.js & WebGL**. Features an immersive puzzle game and a magic performance gallery.
-* **[Tainan Weikuo Church](https://www.weiguochurch.com):** A production-grade platform featuring **Flask & MariaDB**.
+* **[Tainan Weiguo Church](https://www.weiguochurch.com):** A production-grade platform featuring **Flask & MariaDB**.
 * **[Table Tennis League System](https://www.jonathan-peng.com/offline):** A real-time match recording and statistics platform.
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathan0626&bg_color=0D1117&color=0078D7&line=0078D7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/jonathan0626">
@@ -107,6 +108,14 @@ I am an M.S. Robotics student at **National Yang Ming Chiao Tung University (NYC
   <a href="https://github.com/jonathan0626">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan0626&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" height="160px" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathan0626/jonathan0626/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathan0626/jonathan0626/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jonathan0626/jonathan0626/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
