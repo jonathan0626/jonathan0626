@@ -1,65 +1,102 @@
-# Hi there 👋 I'm Jonathan Peng
+<div align="center">
 
-## 👨‍💻 About Me  
-I am from **Taiwan**, previously studied **Mechanical Engineering at National Yang Ming Chiao Tung University (NYCU)**,  
-and I am now pursuing a **Master’s Program in Robotics at NYCU**, specializing in **AI and Computer Vision**.  
+# 👨‍💻 Jonathan Peng
 
-- 🌐 Creator of [jonathan-peng.com](https://www.jonathan-peng.com), a portfolio showcasing projects across engineering, AI, and web development.  
-- Passionate about **interdisciplinary integration and hands-on innovation**, combining engineering with AI, data science, and creative arts.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=M.S.+Robotics+Student;Full-Stack+%26+Web+Developer;Systems+Programming;Creative+Coder)](https://git.io/typing-svg)
 
----
+**Bridging Mechanical Engineering and Software Intelligence**
 
-## 🌟 Experience
-- 🎩 **Special Guest Magician** – Sanlih Entertainment Television (*SET*) Variety Show *“Hot Door Night”*  
-- 🏓 **Founder & First Convener** – *Qing Jiao Small League* (Inter-departmental table tennis league)  
-- 💻 **Developer** – Real-time Match Recording System for Qing Jiao League  
-- 🌐 **Designer** – Official Website of *Weiguo Street Christian Church, Tainan*  
-- 🏓 **Team Captain (113) & Coach (114–115)** – NYCU Mechanical Engineering Table Tennis Team  
-- 🎨 **Designer** – Logo Artwork for NYCU Vulpecula Magic Club  
-- 🎭 **Vice President (18th Term)** – NYCU Vulpecula Magic Club  
-- 🥁 **Jazz Drummer** – Tainan Second Senior High School Rock Band Club  
+[![Portfolio](https://img.shields.io/badge/Portfolio-jonathan--peng.com-0078d7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jonathan-peng.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jonathan0626-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathan0626)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arroyoisalsogood@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Skills  
+### 🎓 About Me
 
-### 💻 Programming & Data Science  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-M.S.%20Robotics-blue?style=flat-square&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hsinchu,%20Taiwan-E4405F?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-Proficient in **Lua scripting**, with hands-on experience in **FiveM**, game mod development, and embedded systems.  
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-### 🤖 Machine Learning & AI  
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=google&logoColor=white)  
-![Predictive Modeling](https://img.shields.io/badge/Modeling-4CAF50?style=for-the-badge&logo=statamic&logoColor=white)  
-![Statistical Analysis](https://img.shields.io/badge/Statistics-7952B3?style=for-the-badge&logo=r&logoColor=white)  
-
-### ⚙️ Engineering & Prototyping  
-![Robotics](https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge&logo=ROS&logoColor=white)  
-![CAD](https://img.shields.io/badge/CAD%20Modeling-0078D7?style=for-the-badge&logo=autodesk&logoColor=white)  
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FFB900?style=for-the-badge&logo=3d&logoColor=black)  
+I am an M.S. Robotics student at **National Yang Ming Chiao Tung University (NYCU)** with a B.S. in Mechanical Engineering. I specialize in building end‑to‑end systems—from compiling custom RISC-V kernels and low-level hardware integration, to developing high-level interactive web platforms and 3D environments.
 
 ---
 
-## 📌 Featured Projects  
-- 🔗 [Weiguo Church Website](https://www.weiguochurch.com) – Full-stack design & deployment of a modern multi-page church website.  
-- 🔗 Real-time Table Tennis League Scoring System – Web-based system for live score tracking and match management.  
-- 🔗 Biomechanics Research (Hip ROM Study) – Data-driven study using IMU, MATLAB, and Python for motion analysis.  
-- 🔗 Omnidirectional Mobile Robot – Designed and built a competition robot with omnidirectional movement and stepper-motor gripper.  
+### 🧠 Technical Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Programming & Systems</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,c,python,lua,linux,docker,git,bash" /><br>
+      <sub><b>Low-Level:</b> Linux Kernel · QEMU · POSIX Threads · RTOS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Robotics & Embedded</h3>
+      <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab" /><br>
+      <sub><b>Core:</b> Kinematics · Trajectory Planning · Sensor Fusion</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI & Computer Vision</h3>
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" /><br>
+      <sub><b>Tools:</b> MediaPipe · NumPy · Pandas · TensorRT</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web & Graphics</h3>
+      <img src="https://skillicons.dev/icons?i=threejs,js,html,css,flask,mysql" /><br>
+      <sub><b>Focus:</b> WebGL · REST API · 3D Visualization</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect  
-🌐 [Website](https://www.jonathan-peng.com) · 💻 [GitHub](https://github.com/jonathan0626) · 📧 [Email](mailto:arroyoisalsogood@gmail.com)  
+### 📌 Comprehensive Projects
+
+#### 🤖 Robotics & Intelligent Systems
+<p align="left">
+  <a href="https://github.com/jonathan0626/Autonomous-Mobile-Robot-with-Computer-Vision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=Autonomous-Mobile-Robot-with-Computer-Vision&theme=tokyonight&show_owner=false&hide_border=true" />
+  </a>
+</p>
+
+* **Autonomous Robot:** Built a system integrating **Raspberry Pi & Arduino** with **MediaPipe** for gesture-based control.
+* **Kinematics Engine:** Developed **DH-parameter** based forward/inverse kinematics and **LSPB trajectory generation**.
+
+#### 🖥️ Systems, Kernel & Game Logic
+<p align="left">
+  <a href="https://github.com/jonathan0626/Operating-Systems-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=Operating-Systems-Projects&theme=tokyonight&show_owner=false&hide_border=true" />
+  </a>
+</p>
+
+* **Kernel Development:** Booted custom **RISC-V Linux kernels** on QEMU; implemented syscalls and multithreaded schedulers.
+* **Game Scripting (FiveM):** Developed client-server event architectures and NUI interfaces for GTA V using Lua (e.g., *jonathan_animal* project).
+
+#### 🌐 Full‑Stack, AI & 3D Web Development
+* **[Personal Portfolio](https://www.jonathan-peng.com):** A 3D-integrated showcase built with **Three.js & WebGL**. Features an immersive, suspenseful puzzle game and a dedicated gallery for my magic performance videos.
+* **[Tainan Weiguo Church](https://www.weiguochurch.com):** A production-grade platform featuring **Flask & MariaDB**.
+* **Hypothermia Risk Prediction System:** Developed the front-end code and integrated UI for real-time medical risk prediction.
+* **[Table Tennis League System](https://www.jonathan-peng.com/offline):** A real-time match recording and statistics platform.
 
 ---
-✨ *“Engineering + AI + Creativity = Infinite Innovation.”* ✨
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <a href="https://github.com/jonathan0626">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan0626&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Jonathan's GitHub Stats" height="160px" />
+  </a>
+  <a href="https://github.com/jonathan0626">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan0626&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" height="160px" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonathan0626&label=Profile%20Views&color=0078D7&style=flat-square" alt="Profile Views" />
+</p>
