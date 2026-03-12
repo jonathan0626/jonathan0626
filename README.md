@@ -76,15 +76,24 @@ I am an M.S. Robotics student at **National Yang Ming Chiao Tung University (NYC
   <a href="https://github.com/jonathan0626/Operating-Systems-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=Operating-Systems-Projects&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
+  <a href="https://github.com/jonathan0626/jonathan_object">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=jonathan_object&theme=tokyonight&show_owner=false&hide_border=true" />
+  </a>
 </p>
 
 * **Kernel Development:** Booted custom **RISC-V Linux kernels** on QEMU; implemented syscalls and multithreaded schedulers.
-* **Game Scripting (FiveM):** Developed client-server event architectures and NUI interfaces for GTA V using Lua (e.g., *jonathan_animal* project).
+* **Game Scripting (FiveM):** Architected custom client-server architectures, NUI interfaces, and interactive object management using Lua (e.g., *jonathan_object*, *jonathan_animal*).
 
 #### 🌐 Full‑Stack, AI & 3D Web Development
-* **[Personal Portfolio](https://www.jonathan-peng.com):** A 3D-integrated showcase built with **Three.js & WebGL**. Features an immersive, suspenseful puzzle game and a dedicated gallery for my magic performance videos.
+<p align="left">
+  <a href="https://github.com/jonathan0626/hypothermia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan0626&repo=hypothermia&theme=tokyonight&show_owner=false&hide_border=true" />
+  </a>
+</p>
+
+* **Hypothermia Risk Prediction System:** Developed the front-end architecture and integrated UI for real-time medical risk prediction.
+* **[Personal Portfolio](https://www.jonathan-peng.com):** A 3D-integrated showcase built with **Three.js & WebGL**. Features an immersive puzzle game and a magic performance gallery.
 * **[Tainan Weikuo Church](https://www.weiguochurch.com):** A production-grade platform featuring **Flask & MariaDB**.
-* **Hypothermia Risk Prediction System:** Developed the front-end code and integrated UI for real-time medical risk prediction.
 * **[Table Tennis League System](https://www.jonathan-peng.com/offline):** A real-time match recording and statistics platform.
 
 ---
